@@ -1,5 +1,5 @@
 
-The equation is ![img](http://latex.codecogs.com/svg.latex?y%3D%7B%5Ccolor%7BRed%7Dm%7Dx%2B%5Cfrac%7Ba%7D%7Bb%7D) test
+The equation is ![image](http://latex.codecogs.com/svg.latex?y%3D%7B%5Ccolor%7BRed%7Dm%7Dx%2B%5Cfrac%7Ba%7D%7Bb%7D) test
 
 
 
